@@ -3,7 +3,9 @@
 Here we provide the code that accompanies the following paper:
 
 [Authors]
+
 Brokering the Productivity Gap: Gendered Returns to Collaborative Positioning in a Global Science Landscape
+
 [Link to the paper]
 
 When you use our code for your publications, please cite this paper.

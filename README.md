@@ -2,11 +2,9 @@
 
 Here we provide the code that accompanies the following paper:
 
-[Authors]
+"Brokering the Productivity Gap: Gendered Returns to Collaborative Positioning in a Global Science Landscape"
 
-Brokering the Productivity Gap: Gendered Returns to Collaborative Positioning in a Global Science Landscape
-
-[Link to the paper]
+by Kjersten Bunker Whittington, Ruodan Liu, Megan Frederickson, and Molly M. King    
 
 When you use our code for your publications, please cite this paper.
 
@@ -16,7 +14,7 @@ Our bibliometric data are drawn from the Scopus database provided by Elsevier. S
 
 ## Python code for creating co-authorship networks
 
-The code for generating co-authorship networks for focal authors is available in our previous repositories[insert link here].
+The code for generating co-authorship networks for focal authors is available in [our previous repositories]([https://github.com/gender-co-authorship/gender-networks]).
 
 ## Python codes for computing network measures and running multiviriate negative binomial count models
 
@@ -36,6 +34,6 @@ contains the code to produce Figures 1 and 2 in the manuscript.
 
 ## Contact information
 
-In case you have any problems feel free to file an issue directly in GitHub or send an email to the author
+In case you have any problems feel free to file an issue directly in GitHub or send an email to the authors
 
-- Ruodan Liu: rliu8@scu.edu
+- gender-co-authorship-research [at] googlegroups.com
